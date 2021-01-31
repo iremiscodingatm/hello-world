@@ -1,2 +1,3 @@
 # hello-world
 It's my first repository,so...
+Hey! My name is İrem, and I'm interested in coding obviously,lol.
